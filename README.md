@@ -8,7 +8,6 @@ This project performs spam/ham classification using Logistic Regression and TF-I
 
 The following libraries are required to run this project:
 - pandas
-- matplotlib
 - scikit-learn
 
 ## Dataset
